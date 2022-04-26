@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<class>
+    <student>
+        <id>101</id>
+        <firstname>Naman</firstname>
+        <lastname>Kumar</lastname>
+        <subject>Math</subject>
+        <marks>83</marks>
+    </student>
+</class>
